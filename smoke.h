@@ -1,0 +1,2 @@
+void initSmoke();
+void drawSmoke();
